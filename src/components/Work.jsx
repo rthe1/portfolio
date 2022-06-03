@@ -24,7 +24,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Voice-Powered Expense Tracker
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -32,7 +32,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/rthe1/voice-expense-tracker'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -47,7 +47,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Covid-19 Tracker
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -55,7 +55,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/rthe1/covid-19-tracker'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -71,7 +71,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Netflix Clone
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -79,7 +79,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/rthe1/reshawnflix'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -94,7 +94,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Full-Stack Twitter Clone
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -102,7 +102,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/rthe1/tweeter'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -112,36 +112,13 @@ const Work = () => {
           </div>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
-              </span>
-              <div className='pt-8 text-center'>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
             style={{ backgroundImage: `url(${realEstate})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Interview Scheduler
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -149,7 +126,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/rthe1/iNTERVIEW'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
