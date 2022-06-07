@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52eca30e.css",
-    "main.js": "/portfolio/static/js/main.a9a8e124.js",
-    "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.js": "/portfolio/static/js/main.1352fa50.js",
+    "static/media/netflixClone.png": "/portfolio/static/media/netflixClone.80221fb0f6ed1a0c0db5.png",
+    "static/media/expenseTracker.png": "/portfolio/static/media/expenseTracker.92a62176bf2e79cb5ac2.png",
+    "static/media/tweeter.png": "/portfolio/static/media/tweeter.33bc0790233db97731a9.png",
+    "static/media/interviewScheduler.png": "/portfolio/static/media/interviewScheduler.ef08455fd9f2f45b47c2.png",
+    "static/media/covid-19.png": "/portfolio/static/media/covid-19.573be018b6f0c71abff9.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/psql.png": "/portfolio/static/media/psql.fb6daab42b2587df2f49.png",
@@ -17,10 +20,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.52eca30e.css.map": "/portfolio/static/css/main.52eca30e.css.map",
-    "main.a9a8e124.js.map": "/portfolio/static/js/main.a9a8e124.js.map"
+    "main.1352fa50.js.map": "/portfolio/static/js/main.1352fa50.js.map"
   },
   "entrypoints": [
     "static/css/main.52eca30e.css",
-    "static/js/main.a9a8e124.js"
+    "static/js/main.1352fa50.js"
   ]
 }
