@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52eca30e.css",
-    "main.js": "/portfolio/static/js/main.b8d6291f.js",
+    "main.js": "/portfolio/static/js/main.82442047.js",
     "static/media/netflixClone.png": "/portfolio/static/media/netflixClone.80221fb0f6ed1a0c0db5.png",
     "static/media/expenseTracker.png": "/portfolio/static/media/expenseTracker.92a62176bf2e79cb5ac2.png",
     "static/media/tweeter.png": "/portfolio/static/media/tweeter.33bc0790233db97731a9.png",
     "static/media/interviewScheduler.png": "/portfolio/static/media/interviewScheduler.ef08455fd9f2f45b47c2.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.bfc38a37a5b3741e0e92.png",
     "static/media/covid-19.png": "/portfolio/static/media/covid-19.573be018b6f0c71abff9.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/psql.png": "/portfolio/static/media/psql.fb6daab42b2587df2f49.png",
-    "static/media/logo.png": "/portfolio/static/media/logo.7ed42caf1761f7568a18.png",
     "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.52eca30e.css.map": "/portfolio/static/css/main.52eca30e.css.map",
-    "main.b8d6291f.js.map": "/portfolio/static/js/main.b8d6291f.js.map"
+    "main.82442047.js.map": "/portfolio/static/js/main.82442047.js.map"
   },
   "entrypoints": [
     "static/css/main.52eca30e.css",
-    "static/js/main.b8d6291f.js"
+    "static/js/main.82442047.js"
   ]
 }
